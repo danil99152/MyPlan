@@ -4,11 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPlan", "MyPlan\MyPlan.csproj", "{96F7416E-6A0A-46A5-9C8E-07A9A4E7D373}"
-	ProjectSection(ProjectDependencies) = postProject
-		{10555D5F-9C02-4517-99AC-5E80F94654D0} = {10555D5F-9C02-4517-99AC-5E80F94654D0}
-	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diary", "Diary\Diary.csproj", "{10555D5F-9C02-4517-99AC-5E80F94654D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +15,6 @@ Global
 		{96F7416E-6A0A-46A5-9C8E-07A9A4E7D373}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96F7416E-6A0A-46A5-9C8E-07A9A4E7D373}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96F7416E-6A0A-46A5-9C8E-07A9A4E7D373}.Release|Any CPU.Build.0 = Release|Any CPU
-		{10555D5F-9C02-4517-99AC-5E80F94654D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{10555D5F-9C02-4517-99AC-5E80F94654D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{10555D5F-9C02-4517-99AC-5E80F94654D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{10555D5F-9C02-4517-99AC-5E80F94654D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
